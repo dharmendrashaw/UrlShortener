@@ -1,0 +1,7 @@
+{
+    "server_port": ":8000",
+    "zk_servers": ["<zookeeper_host>:2181"],
+    "mongo_connection_string": "<mogo_connection_string>",
+    "mongo_db": "urlshortnerdb",
+    "mongo_collection": "shortenerurls"
+}
